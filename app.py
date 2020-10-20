@@ -17,15 +17,15 @@ while True:
       counter += 1
     if each_word == "disappointed":
       feelings_list.append("disappointed")
-      encouragement_list.append("there is always a next time to do well")
+      encouragement_list.append("there is always a next time to do well,reflect and learn, okay?")
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("you should rest well")
+      encouragement_list.append("you should rest well, grab a snack or sleep")
       counter += 1
     if each_word == "sad":
       feelings_list.append("sad")
-      encouragement_list.append("you will do better next time")
+      encouragement_list.append("Cheer up! You will do better next time")
       counter += 1
 
   if counter == 0:
